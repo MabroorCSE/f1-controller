@@ -25,7 +25,7 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - There will be roads and grass as well
 - I will try to add some animations so it does not look too stagnant
 - I don't plan on having opponents yet, just a time trial
-- If the player goes off track, slow down the car. Also, begin a 3 second timer on the LED bar at the top, make it all red to show urgency and start going backwards, if the player is not back in that time, reset or go back to checkpoint. Not sure yet which one.
+- If the player goes off track, slow down the car. Also, begin a 3 second timer on the LED bar on the controller itself, make it all red and start going backwards, if the player is not back in that time, reset or go back to checkpoint. Not sure yet which one.
 - Potentially have one of the buttons show a large scale map of the track with an icon showing where player is
 
 ## Goal
