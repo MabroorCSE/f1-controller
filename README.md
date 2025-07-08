@@ -18,7 +18,7 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - Includes 2 metal toggle switches for a more professional look. 1 for power on/off, have not decided the other one
 - A large OLED screen at the top of the controller displaying stats such as: lap, lap time, speed, gear, etc
 - A row of LEDs above the OLED screen to mimic the shift lights on F1 steering wheels
-- Buttons will be placed around the controller depending on comfortbility and reach based on the casing of the controller
+- Buttons will be placed across the controller depending on comfortbility and reach based on the casing of the controller
 
 ## The Game
 - The racing game will be a top-down view of a 2D map
