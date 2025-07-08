@@ -1,7 +1,7 @@
 # F1-Controller
 Aiming to build a controller inspired by Formula 1 that will be used in a top-down view racing game that I develop in Pygame. This project is a way for me to learn the core of Computer Systems Engineering (CSE) which is what I plan to do.
 
-# Materials Used/Plan to use
+## Materials Used/Plan to use
 - Arduino UNO (1)
 - Arduino MEGA (1)
 - OLED Display Module (1)
@@ -11,7 +11,7 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - Arcade style buttons (TBD based on design)
 - Portable Power Supply. Either LiPo battery or a simple USB power bank (1-2)
 
-# Controller Features
+## Controller Features
 - This controller is going to be inspired by F1 steering wheels
 - It will be symmetrical for simplicity
 - Includes 2 joysticks. 1 to move around, have not decided the other one
@@ -20,20 +20,20 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - A row of LEDs above the OLED screen to mimic the shift lights on F1 steering wheels
 - Buttons will be placed around the controller depending on comfortbility and reach based on the casing of the controller
 
-# The Game
+## The Game
 - The racing game will be a top-down view of a 2D map
 - There will be roads and grass as well
 - I will try to add some animations so it does not look too stagnant
 - I dont plan on having opponents yet, just a time trial
 - If the player goes off track, slow down the car. Also, begin a 3 second timer on the LED bar at the top, make it all red to show urgency and start going backwards, if the player is not back in that time, reset or go back to checkpoint. Not sure yet which one.
-- Potentially have one of the buttons shw a large scale map of the track with an icon showing where player is
+- Potentially have one of the buttons show a large scale map of the track with an icon showing where player is
 
-# Goal
+## Goal
 - Design the encasing of the controller in CAD and 3D print it
 - Wire and hook up each component taking voltage regualtions into account
 - Program the game (probably just 2D) in Pygame and ensure the controller works properly
 
-# Timeline
+## Timeline
 - Start by simply learning the skills (CAD, Arduino, Programming)
 - I have some experience in programming and I just started learning Arduino and wiring, I will have to learn CAD as well
 - Mess around in Arduino. Small projects to just get the ball rolling
@@ -42,6 +42,6 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - Once I'm confortable with all 3 skills, start combining them together until, eventually, I'm ready for the main project
 - I planned for this to be a project in Summer 2025 before I head off to university, but it seems I'll have to continue this there
 
-# Current Status (As of July 8th, 2025)
+## Current Status (As of **July 8th, 2025**)
 - Messing around with Arduino. Made 15 LEDs light up very fast left to right, imitating the F1 shift lights
 
