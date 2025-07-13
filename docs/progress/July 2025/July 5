@@ -1,12 +1,16 @@
 ## What I Did/Learned
-- Very first time handling circuits and Arduino alone
-- Managed to get my first few LEDs blinking (with a lot of tutorials)
-- Went a bit further and managed to hook up a button (also with tutorials)
+- Today, I experimented with the joystick
+- I learned about registering both X and Y axes, which will be essential for the main project
+- I also learned about analog pins and how they can read more than just HIGH/LOW, like a digital pin can
+- So, I hooked up an LED and controlled its brightness with the joystick's Y-axis input
+- Instead of making the brightness equal to the value, I made it increase/decrease based on whether it was flicked up or down, so it was a smoother transition
+- Alongside the joystick setup, I also hooked up 15 LEDs and made them turn on fast from left to right to imitate F1 shift lights
 
-## Youtube Video: July 4th, 2025
-https://youtube.com/shorts/aPd60NuJWBU
+## Youtube Video: July 5th, 2025
+https://youtube.com/shorts/zbac8oJvNCg
+
 
 ## Next Steps
-- Continue experimenting with small circuits and progressively challenge myself more and more
-- The button is a little jittery and registers when I'm not pressing sometimes
-- I think it's okay to use tutorials for now, but I plan on limiting that and thinking more for myself
+- Keep trying small bits of the main project and learning along the way, as that is the main priority
+- Expand my skills and start to think about CAD and how I'm going to design this
+
