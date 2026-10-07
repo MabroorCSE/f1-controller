@@ -42,6 +42,11 @@ Aiming to build a controller inspired by Formula 1 that will be used in a top-do
 - Once I'm comfortable with all 3 skills, start combining them together until, eventually, I'm ready for the main project
 - I planned for this to be a project in Summer 2025 before I head off to university, but it seems I'll have to continue this there
 
-## Current Status (As of **July 8th, 2025**)
-- Messing around with Arduino. Made 15 LEDs light up very fast left to right, imitating the F1 shift lights
+## Demos
+- [First LED](https://youtube.com/shorts/aPd60NuJWBU)
+- [Button input](https://youtube.com/shorts/VEi75wpWUuE)
+- [Joystick-controlled LED brightness](https://youtube.com/shorts/zbac8oJvNCg)
+- [F1 shift light sequence](https://youtube.com/shorts/GQSaH0udJnA)
 
+## Status
+Paused after initial prototyping (July 2025). Progress logs are in [`docs/progress`](docs/progress).
